@@ -1,4 +1,4 @@
-# THP-Small Game POO
+# THP-Scrapper_to_DB
 
 
 <!-- TABLE OF CONTENTS -->
@@ -18,10 +18,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-3 simples programs to simulate a fight game:
--App -> show a fight of 1 human player VS a bot
--App2 -> show a fight of 1 human player VS 2 bots
--App3 -> show a fight of 1 human player VS 4 bots
+
 
 <!-- BUILD WITH -->
 ### Built With
